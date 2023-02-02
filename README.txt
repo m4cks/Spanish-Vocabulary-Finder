@@ -1,0 +1,2 @@
+Missing "Builds", "apk", and "Library" folders. Git says I'm uploading too many files.
+My work can be found in the "Assets" file. "Assets/Scripts" and "Assets/Scenes" are where most of the magic happens.
