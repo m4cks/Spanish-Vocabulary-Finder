@@ -1,0 +1,119 @@
+{
+    "m_SelectedDeviceId": "35464155494b3098",
+    "m_SelectedPackage": {
+        "deviceId": "35464155494b3098",
+        "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+        "processId": 26073,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.sec.android.app.launcher",
+            "processId": 2368,
+            "exited": false
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.DefaultCompany.SpanishVocabularyBuilder",
+            "processId": 28031,
+            "exited": true
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.DefaultCompany.SpanishVocabularyBuilder",
+            "processId": 30098,
+            "exited": true
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.DefaultCompany.SpanishVocabularyBuilder",
+            "processId": 31803,
+            "exited": true
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+            "processId": 7630,
+            "exited": true
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+            "processId": 14987,
+            "exited": true
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+            "processId": 21264,
+            "exited": false
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+            "processId": 22963,
+            "exited": false
+        },
+        {
+            "deviceId": "35464155494b3098",
+            "name": "com.MaxSchlapfer.SpanishVocabularyBuilder",
+            "processId": 26073,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
